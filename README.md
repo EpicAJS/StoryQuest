@@ -40,6 +40,7 @@ Developing StoryQuest presented several challenges:
 StoryQuest achieved several important milestones:
 
 - **Engaging Educational Experience:** Combining AI-driven story prompts and visuals with a chatbot created a truly immersive, enjoyable learning environment.
+- - **Detailed Image Generation:** Generating illustrations with the latest version of Gemini Imagen allows a user to easily follow along with the story.
 - **Responsive Interface:** Built with React, StoryQuest offers a smooth and accessible platform that adapts to different screen sizes and user needs.
 - **Innovative Learning Aid:** StoryQuest’s interactive approach has proven to enhance understanding and retention among young learners.
 
