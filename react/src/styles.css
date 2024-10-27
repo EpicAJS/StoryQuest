@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+aside {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+
+header {
+    margin-left: 240px;
+}
+
+.bubble-labels {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #2663da;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #4a8de0;
+}

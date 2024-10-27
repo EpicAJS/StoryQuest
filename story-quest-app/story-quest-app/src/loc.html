@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Display</title>
+</head>
+<body>
+    <h1>Display Image Example</h1>
+    <div id="image-container"></div>
+
+    <script>
+        // Function to display an image
+        function displayImage() {
+            const imageUrl = './images/image1.png'; // Path to your image
+            const imgElement = document.createElement('img');
+            imgElement.src = imageUrl;
+            imgElement.alt = 'Sample Image';
+            imgElement.style.maxWidth = '100%'; // Responsive width
+            imgElement.style.height = 'auto'; // Maintain aspect ratio
+
+            const container = document.getElementById('image-container');
+            container.appendChild(imgElement);
+        }
+
+        // Call the function to display the image
+        displayImage();
+    </script>
+</body>
+</html>
