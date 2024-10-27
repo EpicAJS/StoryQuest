@@ -1,6 +1,5 @@
-﻿# StoryQuest
 **📖 Overview**  
-StoryQuest is an engaging and interactive learning tool designed to captivate young learners ages five to twelve. By allowing children to create personalized stories featuring characters from their favorite TV shows, StoryQuest turns learning into an adventure where complex academic concepts become accessible and fun. Kids can choose characters to help them explore a range of subjects, including math, science, history, language arts, and more! As they create stories, StoryQuest provides vibrant images and guided prompts, making it easy for children to grasp new ideas and enjoy their educational journey. To support deeper understanding, an interactive chatbot is always available, ready to answer questions or explain topics further, giving kids the power to learn at their own pace. With StoryQuest, education meets creativity, empowering children to learn while having fun in a world where stories and knowledge come to life.
+StoryQuest is an engaging and interactive learning tool designed to captivate young learners aged five to twelve. By allowing children to create personalized stories featuring characters from their favorite TV shows, StoryQuest turns learning into an adventure where complex academic concepts become accessible and fun. Kids can choose characters to help them explore a range of subjects, including math, science, history, and language arts. As they create stories, StoryQuest provides vibrant images and guided prompts, making it easy for children to grasp new ideas and enjoy their educational journey. To support deeper understanding, an interactive chatbot is always available, ready to answer questions or explain topics further, giving kids the power to learn at their own pace. With StoryQuest, education meets creativity, empowering children to learn while having fun in a world where stories and knowledge come to life.
 
 
 **🚀 Inspiration**  
@@ -40,7 +39,6 @@ Developing StoryQuest presented several challenges:
 StoryQuest achieved several important milestones:
 
 - **Engaging Educational Experience:** Combining AI-driven story prompts and visuals with a chatbot created a truly immersive, enjoyable learning environment.
-- - **Detailed Image Generation:** Generating illustrations with the latest version of Gemini Imagen allows a user to easily follow along with the story.
 - **Responsive Interface:** Built with React, StoryQuest offers a smooth and accessible platform that adapts to different screen sizes and user needs.
 - **Innovative Learning Aid:** StoryQuest’s interactive approach has proven to enhance understanding and retention among young learners.
 
@@ -54,10 +52,11 @@ Building StoryQuest deepened our understanding of several critical areas:
 **🔮 What's Next for StoryQuest**  
 Our future plans for StoryQuest include:
 
-- **Enhanced Character Selection:** Expanding our character roster to include more diverse characters from various shows, appealing to a wider audience.
-- **Broader Academic Topics:** Introducing more subjects and tailored educational modules to support an even wider curriculum.
-- **Advanced Interactive Features:** Incorporating voice-activated interactions and expanded chatbot functionalities for a fully interactive experience.
+- **Enhanced Character Selection:** Expanding our character roster to include more diverse characters and even customizable sprites that users can build bonds with.
+- **Broader Academic Topics:** Introducing more subjects and tailored educational modules to support an even wider curriculum of more complex concepts.
+- **Advanced Interactive Features:** Incorporating voice-activated interactions, expanded chatbot functionalities, and camera data with thumbs up and thumbs down detection for a fully interactive experience.
 - **Classroom Integration:** Developing teacher and classroom-specific features, making StoryQuest a valuable tool in schools.
+- **Adaptive Learning:** As a child continues to interact with the website, StoryQuest will start to learn the most effective ways to convey a concept to that specific child.
 
 **🛠 Built With**  
 - **Languages:** JavaScript, Python, HTML, CSS  
@@ -77,5 +76,3 @@ Explore our codebase: [GitHub Repo](https://github.com/EpicAJS/StoryQuest)
 - **Abhijay Salvi** - Integration Specialist - [asalvi31@gatech.edu](mailto:asalvi31@gatech.edu)  
 - **Nimai Ponna** - Backend Integration Lead - [nponna3@gatech.edu](mailto:nponna3@gatech.edu)  
 - **Meet Palod** - Image Generation Lead - [meetpalod18@gmail.com](mailto:meetpalod18@gmail.com)
-
-
