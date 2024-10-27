@@ -94,7 +94,7 @@ Our future plans for StoryQuest include:
 
 ## 📽 Demo
 
-Check out our demo video [here](ADD LINK).
+Check out our demo video [here](https://www.youtube.com/watch?v=OXkjsJTDxLs).
 
 ## 🖥 Try It Out
 
